@@ -1,0 +1,70 @@
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.exe
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.deps.json
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\refint\WinFormsApp4.dll
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\ref\WinFormsApp4.dll
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\ImageProcessor.dll
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\WinForms.C2FE0A35.Up2Date
+C:\Users\User\source\repos\WinFormsApp4\obj\Debug\net8.0-windows\ImageEditor.Form1.resources
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\User\source\repos\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\refint\WinFormsApp4.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.exe
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.deps.json
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.runtimeconfig.json
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\WinFormsApp4.pdb
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\ImageProcessor.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\ImageEditor.Form1.resources
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.AssemblyInfo.cs
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinForms.C2FE0A35.Up2Date
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\WinFormsApp4.genruntimeconfig.cache
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\obj\Debug\net8.0-windows\ref\WinFormsApp4.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Xamarin.Essentials.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Xamarin.Forms.Core.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Xamarin.Forms.Platform.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Xamarin.Forms.Xaml.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\PdfSharp.System.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\EM_K\Desktop\ITE4th\فصل ثاني\multi media\project 1\WinFormsApp4\WinFormsApp4\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
